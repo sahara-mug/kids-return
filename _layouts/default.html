@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset='utf-8'>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="也着实难为了「上海交大计算机系」这块煞有介事的招牌 离校数载 曾见两回头顶此名号工友 同年界别 却从未曾闻其人 心默默生问号 却倒也大可不必细究 往日同窗时而得闲相聚 自然好生热闹 彼此交流见闻 常不乏类同经历 众生席间一笑罢了 然近日大疫开春与故交同游 途间打发光阴 彼人开启「脉脉」强推之所谓「校友」功能 满屏竟无一得认之人 不知是否全赖年代久远不可考 故将建系五十周年官方编纂之名录转格校对列陈于此 唯偏差疏漏连同补全之任仍仰同仁诸君与校方共勤之">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" type="text/css" href="{{ '/assets/css/print.css' | relative_url }}" media="print">
+    <title>上海交通大学计算机科学与工程系历届学生名单（截止至建系五十周年）</title>
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+{% seo %}
+  </head>
+
+  <body>
+    <div id="container">
+      <div class="inner" style="text-align: right">
+        <header>
+        </header>
+        <hr>
+        <section id="main_content">
+          {{ content }}
+        </section>
+        <footer>
+        </footer>
+      </div>
+    </div>
+
+    {% if site.google_analytics %}
+      <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        ga('create', '{{ site.google_analytics }}', 'auto');
+        ga('send', 'pageview');
+      </script>
+    {% endif %}
+  </body>
+</html>
