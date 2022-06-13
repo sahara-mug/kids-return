@@ -3430,7 +3430,7 @@ _2000_
 |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|
 |--:|--:|--:|--:|--:|
 |阿力甫|陈肯|陈思侃|陈雪峰|丁子仪|
-|范晓绮|高冲|华清|黄嘉满|李柏丰|
+|范晓筠|高冲|华清|黄嘉满|李柏丰|
 |李轩|李旻庆|梁永坚|吕汉阳|罗文嶷|
 |倪伟|齐鸿儒|钱兴隆|邵东|陶猗|
 |田慧敏|王晨|王文昊|魏波|谢淼|
